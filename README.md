@@ -1,4 +1,4 @@
-# 🍝 recipeBox
+# 🍝 Resetario
 
 A mobile app that stores and searches informal recipes.
 
