@@ -1,4 +1,4 @@
-# 🍝 Resetario
+# 🍝 RecipeApp
 
 A mobile app that stores and searches informal recipes.
 
